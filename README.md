@@ -100,6 +100,11 @@ The mouse control functionality relies on your screen's resolution to accurately
 * **To Exit Any Mode:** Simply **hide your hand(s) from the camera** for a moment. The assistant will return to `IDLE` mode after a short cooldown.
 * **To Quit the Application:** Press the **`q` key** on your keyboard at any time while the webcam window is active.
 
+## 🎬 Watch the Demo
+
+See the Virtual Desktop Assistant in action by clicking the link below:
+
+[Watch Demo Video (MP4)](demo.mp4)
 ---
 
 ## ⚙️ Calibration Notes
